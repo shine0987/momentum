@@ -1,0 +1,23 @@
+.hidden {
+    display: none;
+}
+#logout-form {
+    text-align: right;
+    margin-right: 20%;
+}
+#clock {
+    font-size: 100px;
+}
+#container-center {
+    text-align: center;
+}
+#quote {
+    color: gray;
+}
+#quote span:last-child{
+    font-size: 12px;
+}
+#weather {
+    margin: 50px 0 10px 0;
+}
+

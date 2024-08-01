@@ -4,3 +4,4 @@
   - localStorage
   - Todo
   - Weather API
+  - background-image 설정 X
